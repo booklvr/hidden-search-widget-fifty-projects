@@ -1,7 +1,8 @@
 import React from 'react'
+import Search from './components/Search'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <Search></Search>
 }
 
 export default App
